@@ -410,6 +410,8 @@ namespace Calculator {
 		SetUserAction(UserAction::Percent);
 		SetFirstnumber();
 		ResultLabel->Text = "0";
+		HelpLabel->Text = "";
+		HelpLabel->Text += firstNumber + " % ";
 	}
 
 	private: System::Void SetUserAction(UserAction action)
