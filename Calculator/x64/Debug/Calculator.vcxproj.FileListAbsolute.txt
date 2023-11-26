@@ -1,0 +1,4 @@
+F:\OOPProjects\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+F:\OOPProjects\Calculator\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+F:\OOPProjects\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+F:\OOPProjects\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
